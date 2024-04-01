@@ -24,4 +24,6 @@ This calculator app was created as a learning project to practice HTML, CSS, and
 1. Clone the repository or download the source code.
 2. Open `index.html` in your web browser.
 3. Start performing calculations by clicking on the buttons or using your keyboard.
+4. <img src="ss.png"></img>
+
 
